@@ -11,10 +11,10 @@ I bring a robust skill set and a proactive mindset to every project I undertake.
 
 ## ACADEMIC QUALIFICATIONS
 
-Master’s (CIS)        Western Illinois University        3.7/4 (GPA)
-B. Tech (ECE)         CMR Engineering College            8.34 (CGPA)
-Intermediate (M.P.C)  Narayana Junior College            96.2%
-SSC                   CMR Model High School              8.5 (CGPA)
+Master’s (CIS)        Western Illinois University        3.7/4 (GPA)<br/>
+B. Tech (ECE)         CMR Engineering College            8.34 (CGPA) <br/>
+Intermediate (M.P.C)  Narayana Junior College            96.2% <br />
+SSC                   CMR Model High School              8.5 (CGPA) <br/>
 
 
 ## PROFESIONAL EXPERIENCE
@@ -24,10 +24,10 @@ SSC                   CMR Model High School              8.5 (CGPA)
 Cognizant, India                              20/03/2021 – 27/06/2022 
 Hyderabad
 
-● Worked in the health care domain for a client named Walgreens Core Pharmacy Management.
-● Good Programming experience in C, Pro*C, PL/SQL, and UNIX.
-● Possesses good knowledge of developing tuxedo services in pro*C and writing Make files.
-● Contributed to several projects through their SDLC (software development life cycle) including application design, development, and deployment.
+● Worked in the health care domain for a client named Walgreens Core Pharmacy Management.<br/>
+● Good Programming experience in C, Pro*C, PL/SQL, and UNIX.<br/>
+● Possesses good knowledge of developing tuxedo services in pro*C and writing Make files.<br/>
+● Contributed to several projects through their SDLC (software development life cycle) including application design, development, and deployment.<br/>
 
 ## PROJECT
 
