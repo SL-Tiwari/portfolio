@@ -36,11 +36,11 @@ Description:
 ● Led the development of an online food ordering system using Angular, HTML, CSS, and Bootstrap for the frontend, Node.js and Java with Spring Framework for the backend, Apache Tomcat for deployment, and SQL database. The system enables seamless browsing, ordering, and payment from local restaurants.
 
 # Key Contributions:
-● Developed frontend interface with Angular, HTML, CSS, and Bootstrap.
-● Implemented backend functionalities with Node.js for real-time features and Java with Spring Framework for core logic.
-● Deployed on Apache Tomcat server for scalability.
-● Ensured secure authentication and authorization with Spring Security.
-● Conducted comprehensive testing and documentation for reliability.
+● Developed frontend interface with Angular, HTML, CSS, and Bootstrap.<br/>
+● Implemented backend functionalities with Node.js for real-time features and Java with Spring Framework for core logic.<br/>
+● Deployed on Apache Tomcat server for scalability.<br/>
+● Ensured secure authentication and authorization with Spring Security.<br/>
+● Conducted comprehensive testing and documentation for reliability.<br/>
 
 ## HOBBY PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM + IOT
 
@@ -59,29 +59,28 @@ Description:
 ### CAMPUS ENERGY MONITORING SYSTEM
 
 Description: 
-● This project presents a solution for building energy monitoring and analysis of the data obtained from the 3-phase energy monitoring. The data for energy monitoring is obtained using a Multi-Functional Meter, which measures electrical qualities like voltage, current, power, etc. The meter supports RS 485 communication, which is used to collect the data from the meter. First, by monitoring the collected data, sending an alert mail to the respective head to avoid the overloading of power cables is presented.
-● Secondly, data analysis on the obtained data is presented. In the analysis of the data, some factors like load factor, imbalance factor, rise time, and high load duration period are calculated from the obtained load curves.
+● This project presents a solution for building energy monitoring and analysis of the data obtained from the 3-phase energy monitoring. The data for energy monitoring is obtained using a Multi-Functional Meter, which measures electrical qualities like voltage, current, power, etc. The meter supports RS 485 communication, which is used to collect the data from the meter. First, by monitoring the collected data, sending an alert mail to the respective head to avoid the overloading of power cables is presented.<br/>
+● Secondly, data analysis on the obtained data is presented. In the analysis of the data, some factors like load factor, imbalance factor, rise time, and high load duration period are calculated from the obtained load curves.<br/>
 
 ## INTERNSHIP
-● A Two-week Internship in Telecom Technologies at the Regional Telecom Training Center
-(RTTC) from 04-06-2018 to 15-06- 2018.
+● A Two-week Internship in Telecom Technologies at the Regional Telecom Training Center(RTTC) from 04-06-2018 to 15-06- 2018.
 
 ## IT PROFICIENCY
-● Languages: - C, C++, JAVA, Python, C#
-● Database Technologies: - MYSQL, PL/SQL
-● Tools: -Multisim, MATLAB, Moba-Xterm, Arduino, git, Microsoft Office
-● Web Application: -HTML, CSS, JavaScript, jQuery, Bootstrap, Rest API
-● Web Frameworks: - AngularJS, Spring
+● Languages: - C, C++, JAVA, Python, C# <br/>
+● Database Technologies: - MYSQL, PL/SQL<br/>
+● Tools: -Multisim, MATLAB, Moba-Xterm, Arduino, git, Microsoft Office<br/>
+● Web Application: -HTML, CSS, JavaScript, jQuery, Bootstrap, Rest API<br/>
+● Web Frameworks: - AngularJS, Spring<br/>
 
 ## ACHIEVEMENTS
-● Certified with Business English Certificate (BEC).
-● Certification from “DELL Technologies” on Big Data.
+● Certified with Business English Certificate (BEC).<br/>
+● Certification from “DELL Technologies” on Big Data.<br/>
 
 ## STRENGTHS
-● Won several prizes in the Inter School Competition.
-● Active part in organizing Fresher’s Day, Traditional Day, and Alumni Meet in the college.
-● Organizing Secretary of Telangana IT Association (TITA) for Student Chapter 2018- 2019.
-● Worked as a Volunteer for the NASA Space Apps Hackathon.
-● Working as an Activist at SWECHA, an organization determined to provide quality software built on the guidelines of the free software development model.
-● Actively participated in student activity club event “DIKSUCHI” in college.
+● Won several prizes in the Inter School Competition.<br/>
+● Active part in organizing Fresher’s Day, Traditional Day, and Alumni Meet in the college.<br/>
+● Organizing Secretary of Telangana IT Association (TITA) for Student Chapter 2018- 2019.<br/>
+● Worked as a Volunteer for the NASA Space Apps Hackathon.<br/>
+● Working as an Activist at SWECHA, an organization determined to provide quality software built on the guidelines of the free software development model.<br/>
+● Actively participated in student activity club event “DIKSUCHI” in college.<br/>
      
