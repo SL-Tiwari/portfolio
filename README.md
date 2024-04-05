@@ -1,6 +1,6 @@
 ## FULL STACK JAVA DEVELOPER                   
 
-### Email: s-tiwari2@wiu.edu                            Mobile: +13313189504
+### Email: s-tiwari2@wiu.edu |  Mobile: +13313189504
 
 
 Welcome to my GitHub repository! I'm Sahil Tiwari, a dedicated and enthusiastic software developer with a keen interest in 
