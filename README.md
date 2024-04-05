@@ -1,6 +1,6 @@
 ## FULL STACK JAVA DEVELOPER                   
 
-# Email: s-tiwari2@wiu.edu                            Mobile: +13313189504
+### Email: s-tiwari2@wiu.edu                            Mobile: +13313189504
 
 
 Welcome to my GitHub repository! I'm Sahil Tiwari, a dedicated and enthusiastic software developer with a keen interest in 
@@ -17,9 +17,9 @@ Intermediate (M.P.C)  Narayana Junior College            96.2%
 SSC                   CMR Model High School              8.5 (CGPA)
 
 
-##P ROFESIONAL EXPERIENCE
+## PROFESIONAL EXPERIENCE
 
-# Programmer Analyst
+### Programmer Analyst
 
 Cognizant, India                              20/03/2021 – 27/06/2022 
 Hyderabad
@@ -31,7 +31,7 @@ Hyderabad
 
 ## PROJECT
 
-# Online Food Ordering System using Angular
+### Online Food Ordering System using Angular
 Description:
 ● Led the development of an online food ordering system using Angular, HTML, CSS, and Bootstrap for the frontend, Node.js and Java with Spring Framework for the backend, Apache Tomcat for deployment, and SQL database. The system enables seamless browsing, ordering, and payment from local restaurants.
 
@@ -44,19 +44,19 @@ Description:
 
 ## HOBBY PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM + IOT
 
-# DAM MONITORING SYSTEM USING IOT
+### DAM MONITORING SYSTEM USING IOT
 
 Description: 
 ● This proposed model gives an outline for the development of an information system based on the existing systems along with the utilization of some sensors and IOT to monitor water levels in the dams. This project also proposes a novel idea of collecting and sharing real-time information about water levels to an authorized central command center through far-field communication. The authorized central command center then takes a call on whether to release the water by opening dam gates or keeping them closed. By doing so, the operation of dams all over the country is centralized and automatized.
 
 ## MINI PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM.
-# ACCIDENT PREVENTION AND ALERT SYSTEM
+### ACCIDENT PREVENTION AND ALERT SYSTEM
 
 Description: 
 ● A prototype was developed to prevent the accident from happening by detecting a parameter alcohol consumption using the sensor MQ3. For safety reasons, a Seat Belt sensor was used. If by chance an accident takes place, we are going to alert the Police station by providing the accurate location of the accident using GPS.
    
 ## MAJOR PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM + IOT.
-# CAMPUS ENERGY MONITORING SYSTEM
+### CAMPUS ENERGY MONITORING SYSTEM
 
 Description: 
 ● This project presents a solution for building energy monitoring and analysis of the data obtained from the 3-phase energy monitoring. The data for energy monitoring is obtained using a Multi-Functional Meter, which measures electrical qualities like voltage, current, power, etc. The meter supports RS 485 communication, which is used to collect the data from the meter. First, by monitoring the collected data, sending an alert mail to the respective head to avoid the overloading of power cables is presented.
