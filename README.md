@@ -11,17 +11,17 @@ I bring a robust skill set and a proactive mindset to every project I undertake.
 
 ## ACADEMIC QUALIFICATIONS
 
-Master’s (CIS)        Western Illinois University        3.7/4 (GPA)<br/>
-B. Tech (ECE)         CMR Engineering College            8.34 (CGPA) <br/>
-Intermediate (M.P.C)  Narayana Junior College            96.2% <br />
-SSC                   CMR Model High School              8.5 (CGPA) <br/>
+- Master’s (CIS) | Western Illinois University| 3.7/4 (GPA)<br/>
+- B.Tech (ECE) | CMR Engineering College | 8.34 (CGPA) <br/>
+- Intermediate(M.P.C) | Narayana Junior College| 96.2% <br />
+- SSC | CMR Model High School| 8.5 (CGPA) <br/>
 
 
 ## PROFESIONAL EXPERIENCE
 
 ### Programmer Analyst
 
-Cognizant, India                              20/03/2021 – 27/06/2022 
+** Cognizant, India    &nbsp;&nbsp;&nbsp;                 20/03/2021 – 27/06/2022 **<br/>
 Hyderabad
 
 ● Worked in the health care domain for a client named Walgreens Core Pharmacy Management.<br/>
@@ -31,8 +31,8 @@ Hyderabad
 
 ## PROJECT
 
-### Online Food Ordering System using Angular
-Description:
+### **Online Food Ordering System using Angular**
+Description:<br/>
 ● Led the development of an online food ordering system using Angular, HTML, CSS, and Bootstrap for the frontend, Node.js and Java with Spring Framework for the backend, Apache Tomcat for deployment, and SQL database. The system enables seamless browsing, ordering, and payment from local restaurants.
 
 # Key Contributions:
@@ -44,21 +44,21 @@ Description:
 
 ## HOBBY PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM + IOT
 
-### DAM MONITORING SYSTEM USING IOT
+### **DAM MONITORING SYSTEM USING IOT**
 
-Description: 
+Description:<br/>
 ● This proposed model gives an outline for the development of an information system based on the existing systems along with the utilization of some sensors and IOT to monitor water levels in the dams. This project also proposes a novel idea of collecting and sharing real-time information about water levels to an authorized central command center through far-field communication. The authorized central command center then takes a call on whether to release the water by opening dam gates or keeping them closed. By doing so, the operation of dams all over the country is centralized and automatized.
 
 ## MINI PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM.
-### ACCIDENT PREVENTION AND ALERT SYSTEM
+### **ACCIDENT PREVENTION AND ALERT SYSTEM**
 
-Description: 
+Description:<br/>
 ● A prototype was developed to prevent the accident from happening by detecting a parameter alcohol consumption using the sensor MQ3. For safety reasons, a Seat Belt sensor was used. If by chance an accident takes place, we are going to alert the Police station by providing the accurate location of the accident using GPS.
    
 ## MAJOR PROJECT DETAILS DOMAIN: EMBEDDED SYSTEM + IOT.
-### CAMPUS ENERGY MONITORING SYSTEM
+### **CAMPUS ENERGY MONITORING SYSTEM**
 
-Description: 
+Description: <br/>
 ● This project presents a solution for building energy monitoring and analysis of the data obtained from the 3-phase energy monitoring. The data for energy monitoring is obtained using a Multi-Functional Meter, which measures electrical qualities like voltage, current, power, etc. The meter supports RS 485 communication, which is used to collect the data from the meter. First, by monitoring the collected data, sending an alert mail to the respective head to avoid the overloading of power cables is presented.<br/>
 ● Secondly, data analysis on the obtained data is presented. In the analysis of the data, some factors like load factor, imbalance factor, rise time, and high load duration period are calculated from the obtained load curves.<br/>
 
